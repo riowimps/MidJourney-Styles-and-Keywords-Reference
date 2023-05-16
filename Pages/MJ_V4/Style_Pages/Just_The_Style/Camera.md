@@ -1,4 +1,4 @@
-<h2>📷 Camera, Film, and Lenses</h2>
+<h2>Camera, Film, and Lenses</h2>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 <br>
 
 
-- <details><summary>📷🌇 Camera and Scenes</summary><p><div align="center">
+- <details><summary>Camera and Scenes</summary><p><div align="center">
 
 	| Scene |
 	| :-: |
@@ -160,7 +160,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷🌇 Camera and Film Types</summary><p><div align="center">
+- <details><summary>Camera and Film Types</summary><p><div align="center">
 
 	| Camcorder Effect | DSLR | Night Vision |
 	| :-: | :-: | :-: |
@@ -264,7 +264,7 @@
 
 	</div></p></details>
 
-- <details><summary>📷🎞 Film Sizes</summary><p><div align="center">
+- <details><summary>Film Sizes</summary><p><div align="center">
 
     | Shot on 8mm | Shot on 9.5mm |
     | :-: | :-: |
@@ -297,7 +297,7 @@
   </div></p></details>
 
 
-- <details><summary>📷🥽 Lens Sizes</summary><p><div align="center">
+- <details><summary>Lens Sizes</summary><p><div align="center">
 
 	| 15mm Lens | 35mm Lens | 85mm Lens |
 	| :-: | :-: | :-: |
@@ -312,115 +312,9 @@
   </div></p></details>
 
 
-- <details><summary>📷🔭 Lenses</summary><p><div align="center">
-
-	| Macro | Macro View | Magnification |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Macro.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Macro_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnification.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| 100x Magnification | 200x Magnification |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/100x_Magnification.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/200x_Magnification.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| 500x Magnification | 1000x Magnification |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/500x_Magnification.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/1000x_Magnification.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Microscopic | Electron Microscope | Super-Resolution Microscopy |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Microscopic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Electron_Microscope.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Super-Resolution_Microscopy.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Telescope | Telescopic | Telescope Photography |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Telescope.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Telescopic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Telescope_Photography.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Telephoto | Panorama | 360 Panorama |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Telephoto.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Panorama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/360_Panorama.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Wide Angle | Ultra-Wide Angle | 360 Angle |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wide_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ultra-Wide_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/360_Angle.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Shift-Lens |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Shift-Lens.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Fisheye Lens | Fisheye Lens Effect | Lens Distortion |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fisheye_Lens.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fisheye_Lens_Effect.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lens_Distortion.webp?raw=true" width="256" /> |
-
-	</div></p></details>
 
 
-- <details><summary>📷🧫 Lens Filters</summary><p><div align="center">
-
-	| Color-Gel | Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Color-Gel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Photographic-Filter | Diffusion-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Photographic-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Diffusion-Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Dichroic-Filter | UV-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dichroic-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/UV-Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Polarization-Filter | Polarizer |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Polarization-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Polarizer.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Infrared Filter | Infrared-Filter | Infrared-Cut-Off-Filter |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Infrared_Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Cut-Off-Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Neutral-Density-Filter | ND-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neutral-Density-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/ND-Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Graduated-Neutral-Density-Filter | GND-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Graduated-Neutral-Density-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/GND-Filter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Astronomical-Filter | Cokin-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Astronomical-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cokin-Filter.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary><p><div align="center">
+- <details><summary>Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary><p><div align="center">
 
 	| Exposure | Short Exposure | Long Exposure |
 	| :-: | :-: | :-: |
@@ -453,102 +347,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷👁 Focus and Depth of Field</summary><p><div align="center">
 
-	| Depth | Depth of Field | DOF |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Depth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/DOF.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Person Medium Depth of Field | Person Deep Depth of Field |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Person_Medium_Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Person_Deep_Depth_of_Field.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Horizon Line | Vantage Point | Vanishing Point |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Horizon_Line.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vantage_Point.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vanishing_Point.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Defocused | Unfocused |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Defocused.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unfocused.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Focal Point | Soft-Focus |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Focal_Point.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Soft-Focus.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Shallow Focus | Deep Focus |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shallow_Focus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Deep_Focus.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Rack Focus | Split Diopter | Tilted Plane Focus |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rack_Focus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Split_Diopter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tilted_Plane_Focus.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
-
-	| Zoom | Dolly Zoom |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zoom.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dolly_Zoom.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Pan | Tilt |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tilt.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Tiltshift |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Tiltshift.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>📷◻ Megapixel Resolutions</summary><p><div align="center">
-
-	| Megapixel | 2 Megapixels |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Megapixel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/2_Megapixels.webp?raw=true" width="256" /> |
-
-	| 10 Megapixels | 12 Megapixels | 16 Megapixels |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/10_Megapixels.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/12_Megapixels.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/16_Megapixels.webp?raw=true" width="256" /> |
-
-	| 20 Megapixels | 22 Megapixels |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/20_Megapixels.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/22_Megapixels.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>📷 Other</summary><p><div align="center">
-
-	| Lens Flare | Vignette | Split Toning |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lens_Flare.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vignette.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Split_Toning.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Rephotography | Scanography | Slit-Scan Photography |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rephotography.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Scanography.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Slit-Scan_Photography.webp?raw=true" width="256" /> |
-
-	</div></p></details>
 
 <hr><!--------------->
 <div align="center">
