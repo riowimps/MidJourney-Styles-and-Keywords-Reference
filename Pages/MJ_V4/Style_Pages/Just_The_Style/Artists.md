@@ -1,24 +1,16 @@
-<h2>📔 Artists</h2>
+<h2>Artists</h2>
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Artists.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Artists.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
+[V1](/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
+[V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Artists.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Artists.md)
-
-[<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
-[<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_landscape_inactive.webp?raw=true" alt="Landscape" width="140.5" />](/Pages/MJ_V4/Style_Pages/Landscape/Artists.md)
-
 </div>
 
 <hr>
 <br>
 
-- <details><summary>📔⛱ Realism</summary><p><div align="center">
+- <details><summary>Realism</summary><p><div align="center">
 
 	| Painting By Ivan Shishkin | Painting By Zdzislaw Beksinski |
 	| :-: | :-: |
@@ -45,7 +37,7 @@
   </div></p></details>
 
 
-- <details><summary>📔❇ Surrealism</summary><p><div align="center">
+- <details><summary>Surrealism</summary><p><div align="center">
 
 	| Painting By Salvador Dali | Painting By Pablo Picasso | Painted By Andre Masson |
 	| :-: | :-: | :-: |
@@ -66,7 +58,7 @@
   </div></p></details>
   
 
-- <details><summary>📔🔆 Idealism</summary><p><div align="center">
+- <details><summary>Idealism</summary><p><div align="center">
 
 	| Painting By Jean Delville |
 	| :-: |
@@ -75,7 +67,7 @@
   </div></p></details>
 
 
-- <details><summary>📔💮 Abstract</summary><p><div align="center">
+- <details><summary>Abstract</summary><p><div align="center">
 
 	| Painting By Wassily Kandinsky | Painting By Marcia Santore |
 	| :-: | :-: |
@@ -84,7 +76,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🧬 Modernism</summary><p><div align="center">
+- <details><summary>Modernism</summary><p><div align="center">
 
 	| Painting By Kandinksey | Painting by Paul Cezane |
 	| :-: | :-: |
@@ -105,7 +97,7 @@
   </div></p></details>
 
 
-- <details><summary>📔➿ Post-Impressionism</summary><p><div align="center">
+- <details><summary>Post-Impressionism</summary><p><div align="center">
 
 	| Painting By Van Gogh |
 	| :-: |
@@ -114,7 +106,7 @@
   </div></p></details>
 
 
-- <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
+- <details><summary>Art Nouveau</summary><p><div align="center">
 
 	| Painting By Wes Anderson | Painted By Alphonso Mucha | Art By Gustav Klimt |
 	| :-: | :-: | :-: |
@@ -123,7 +115,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🌄 Luminism</summary><p><div align="center">
+- <details><summary>Luminism</summary><p><div align="center">
 
 	| Painting By Albert Bierstadt | Painting By Thomas Kinkade |
 	| :-: | :-: |
@@ -132,7 +124,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🦋 Expressionism</summary><p><div align="center">
+- <details><summary>Expressionism</summary><p><div align="center">
 
     | Painted By Affadi | Painted By Alexej Von Jawlensky | Painted By Alice Neel |
     | :-: | :-: | :-: |
@@ -147,7 +139,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🔳 Futurism</summary><p><div align="center">
+- <details><summary>Futurism</summary><p><div align="center">
 
 	| Painting By David Alabo |
 	| :-: |
@@ -156,7 +148,7 @@
   </div></p></details>
 
 
-- <details><summary>📔⬛ Gothic</summary><p><div align="center">
+- <details><summary>Gothic</summary><p><div align="center">
 
 	| Painted By Anne Stokes | Painting By Gerald Brom |
 	| :-: | :-: |
@@ -171,7 +163,7 @@
   </div></p></details>
 
 
-- <details><summary>📔☯ Psychedelic</summary><p><div align="center">
+- <details><summary>Psychedelic</summary><p><div align="center">
 
 	| Painting By Alex Grey | Painting By Dan Mumford |
 	| :-: | :-: |
@@ -180,7 +172,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🔴 Pop Art</summary><p><div align="center">
+- <details><summary>Pop Art</summary><p><div align="center">
 
 	| Painted By Andy Warhol | Painting By David Hockney |
 	| :-: | :-: |
@@ -195,7 +187,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🧿 Concept Art</summary><p><div align="center">
+- <details><summary>Concept Art</summary><p><div align="center">
 
 	| Painting By Marc Simonetti | Painted By Alan Lee |
 	| :-: | :-: |
@@ -204,7 +196,7 @@
   </div></p></details>
 
 
-- <details><summary>📔❤ Romanticism</summary><p><div align="center">
+- <details><summary>Romanticism</summary><p><div align="center">
 
 	| Painting By John Constable |
 	| :-: |
@@ -213,7 +205,7 @@
   </div></p></details>
 
 
-- <details><summary>📔✡️ Renaissance</summary><p><div align="center">
+- <details><summary>Renaissance</summary><p><div align="center">
 
 	| Painted By Leonardo Da Vinci | Painted By Da Vinci |
 	| :-: | :-: |
@@ -228,7 +220,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🌇 Vedute Painting Style</summary><p><div align="center">
+- <details><summary>Vedute Painting Style</summary><p><div align="center">
 
 	| Painting By Canaletto |
 	| :-: |
@@ -237,7 +229,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🏘 Baroque</summary><p><div align="center">
+- <details><summary>Baroque</summary><p><div align="center">
 
 	| Painted By Annibale Carracci | Painted By Anthony Van Dyck |
     | :-: | :-: |
@@ -246,7 +238,7 @@
   </div></p></details>
 
 
-- <details><summary>📔👁‍🗨 Dadaism</summary><p><div align="center">
+- <details><summary>Dadaism</summary><p><div align="center">
 
 	| Painting By Robert Rauschenberg | Art By Man Ray |
 	| :-: | :-: |
@@ -303,7 +295,7 @@
   </div></p></details>
 
 
-- <details><summary>📔👁‍🗨 Neo-Dadaism</summary><p><div align="center">
+- <details><summary>Neo-Dadaism</summary><p><div align="center">
 	
 	| Art By Genpei Akasegawa | Painting By Josip Demirovic Devj |
 	| :-: | :-: |
@@ -336,7 +328,7 @@
   </div></p></details>
 
 
-- <details><summary>📔💨 Graffiti Artists</summary><p><div align="center">
+- <details><summary>Graffiti Artists</summary><p><div align="center">
 
 	| Graffiti By Mr. Brainwash | Graffiti By Thierry Guetta |
 	| :-: | :-: |
@@ -405,7 +397,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🖼 Instagram Artist</summary><p><div align="center">
+- <details><summary>Instagram Artist</summary><p><div align="center">
 	
 	| Uon.visuals | Art By Uon.visuals |
 	| :-: | :-: |
@@ -438,7 +430,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🖼 Artstation Artist</summary><p><div align="center">
+- <details><summary>Artstation Artist</summary><p><div align="center">
 
     | Painted By Annton Fadeev | Painted By Alena Aenami |
     | :-: | :-: |
@@ -459,7 +451,7 @@
   </div></p></details>
 
 
-- <details><summary>📔🈯 Manga</summary><p><div align="center">
+- <details><summary>Manga</summary><p><div align="center">
 
 	| Painting By Junji Ito |
 	| :-: |
@@ -486,9 +478,9 @@
   </div></p></details>
 
 
-- <details><summary>📔🗿 Non-Painters</summary><p>
+- <details><summary>Non-Painters</summary><p>
 
-    - <details><summary>📔🗿 Sculptors</summary><p><div align="center">
+    - <details><summary>Sculptors</summary><p><div align="center">
 
         | Art By Alberto Giacometti | Art By Alexander Milne Calder |
         | :-: | :-: |
@@ -496,7 +488,7 @@
 
       </div></p></details>
 
-    - <details><summary>📔📷 Photographers</summary><p><div align="center">
+    - <details><summary>Photographers</summary><p><div align="center">
 
         | Art By Anne Geddes | Art By Joel-Peter Witkin |
         | :-: | :-: |
@@ -504,7 +496,7 @@
 
       </div></p></details>
 
-    - <details><summary>📔✍ Writers</summary><p><div align="center">
+    - <details><summary>Writers</summary><p><div align="center">
 
         | Art By Anne McCaffrey |
         | :-: |
@@ -515,7 +507,7 @@
   </p></details>
 
 
-- <details><summary>📔 Other Artists</summary><p><div align="center">
+- <details><summary>Other Artists</summary><p><div align="center">
 
 	| Painting By Bob Ross | Art By M.C. Escher |
 	| :-: | :-: |
