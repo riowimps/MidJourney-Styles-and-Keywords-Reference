@@ -1,57 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Banner/banner_dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
-  <img alt="Midjourney Styles and Keywords Reference" src="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
-</picture>
-<br><br>
-
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
-
-<hr><!--------------->
-
-<div align="center">
-
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request_light.webp?raw=true" width = 377>
-  <img alt="📥 Submitting Ideas and Pull Requests" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request.webp?raw=true" width = 377>
-</picture></a>
-<br>
-<a href="/Pages/Links.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_links.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_links_light.webp?raw=true" width = 377>
-  <img alt="🔗 Links To Docs and Other Resources" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_links.webp?raw=true" width = 377>
-</picture></a>
-<a href="https://discord.com/channels/662267976984297473/995554362686439526"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_discord_thread.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_discord_thread_light.webp?raw=true" width = 377>
-  <img alt="💬 Our Discord Thread" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_discord_thread.webp?raw=true" width = 377>
-</picture></a>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_how-to_guide.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_how-to_guide_light.webp?raw=true" width = 377>
-  <img alt="❔ How-To Guide" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_how-to_guide.webp?raw=true" width = 377>
-</picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%93%9D-Observation-and-Research-Notes"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_observation_and_research_notes.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_observation_and_research_notes_light.webp?raw=true" width = 377>
-  <img alt="📝 Observation and Research Notes" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_observation_and_research_notes.webp?raw=true" width = 377>
-</picture></a>
-<a href="/Pages/Control_Image.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.webp?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image_light.webp?raw=true" width = 758>
-  <img alt="⚪ Control and Image Seed" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.webp?raw=true" width = 758>
-</picture></a>
-
-</div>
-
-
-
-<hr><!--------------->
-
-
-
 <div align="center">
 
   <h3><pre>Styles</pre></h3>
@@ -68,7 +14,6 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp?raw=true" width=758>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis_light.webp?raw=true" width=758>
-  <img alt="😊 Emojis" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp?raw=true" width=758>
   </picture>
 </a>
 <br>
@@ -117,8 +62,7 @@
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Material_Properties.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_material_properties.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_material_properties_light.webp?raw=true" width = 249>
-  <img alt="📦 Material Properties" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_material_properties.webp?raw=true" width = 249>
-</picture></a>
+ 
 <br>
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Lighting.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_lighting.webp?raw=true" width = 249>
@@ -128,8 +72,7 @@
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/SFX_and_Shaders.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_sfx.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_sfx_light.webp?raw=true" width = 249>
-  <img alt="🌈 SFX and Shaders" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_sfx.webp?raw=true" width = 249>
-</picture></a>
+ 
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Dimensionality.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_dimensionality.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_dimensionality_light.webp?raw=true" width = 249>
@@ -149,8 +92,6 @@
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Outer_Space.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_outer_space.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_outer_space_light.webp?raw=true" width = 249>
-  <img alt="☄ Outer Space" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_outer_space.webp?raw=true" width = 249>
-</picture></a>
 <br>
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Camera.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_camera.webp?raw=true" width = 249>
@@ -165,8 +106,6 @@
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/TV_and_Movies.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_tv_and_movies_light.webp?raw=true" width = 249>
-  <img alt="🎬 TV Shows and Movies" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 249>
-</picture></a>
 <br>
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Geometry.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_geometry.webp?raw=true" width = 249>
