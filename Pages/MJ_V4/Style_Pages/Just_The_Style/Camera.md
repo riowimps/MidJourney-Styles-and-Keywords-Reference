@@ -345,5 +345,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">Go Back To Home Page</a></h6>
 </div>
