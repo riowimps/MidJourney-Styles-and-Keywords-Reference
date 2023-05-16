@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_active.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Camera.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Camera.md)
+[V1](/Pages/MJ_V1/Style_Pages/Sphere/Camera.md)
+[V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Camera.md)
 <br>
 
 </div>
