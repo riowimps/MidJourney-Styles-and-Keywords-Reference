@@ -16,7 +16,7 @@
 <br>
 
 
-- <details><summary>📷🌇 Camera and Scenes</summary><p><div align="center">
+- <details><summary>Camera and Scenes</summary><p><div align="center">
 
 	| Photography | Filmic | Cinematic |
 	| :-: | :-: | :-: |
@@ -31,7 +31,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷🌇 Camera and Film Types</summary><p><div align="center">
+- <details><summary>Camera and Film Types</summary><p><div align="center">
 
 	| Night Vision |
 	| :-: |
@@ -52,7 +52,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷🔭 Lenses</summary><p><div align="center">
+- <details><summary>Lenses</summary><p><div align="center">
 
 	| Macro |
 	| :-: |
@@ -67,7 +67,7 @@
 
 	</div></p></details>
 
-- <details><summary>📷👁 Focus and Depth of Field</summary><p><div align="center">
+- <details><summary>Focus and Depth of Field</summary><p><div align="center">
 	
 	| Depth of Field | DOF |
 	| :-: | :-: |
@@ -76,7 +76,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
+- <details><summary>Zoom, Pan, and Tilt</summary><p><div align="center">
 	
 	| Dolly Zoom |
 	| :-: |
@@ -85,7 +85,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷 Other</summary><p><div align="center">
+- <details><summary>Other</summary><p><div align="center">
 
 	| Lens Flare | Vignette |
 	| :-: | :-: |
