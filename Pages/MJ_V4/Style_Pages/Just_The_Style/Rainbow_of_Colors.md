@@ -1,11 +1,5 @@
 <h2>色谱</h2>
 
-<div align="center">
-MidJourney V4
-
-</div>
-
-<hr>
 <br>
 
 <div align="center">
