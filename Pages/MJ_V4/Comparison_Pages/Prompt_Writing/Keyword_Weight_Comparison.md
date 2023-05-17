@@ -1,14 +1,10 @@
-<h2>⚖ Keyword Weight Comparison</h2>
+<h2>关键词对比</h2>
 
 <hr><!--------------->
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive_half.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Keyword_Weight_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active_half.webp?raw=true" alt="MidJourney V4" height="64" />]()
-
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />]()
-
+<font size="15">**MidJourney V4**
 </div>
 
 <hr>
