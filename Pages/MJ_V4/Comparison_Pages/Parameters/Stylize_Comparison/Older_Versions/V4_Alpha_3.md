@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<font size="15">**MidJourney V4**
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
 <br>
 [<font size="15">**V4 All**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_V4_All.md)
     &nbsp;&nbsp;&nbsp;
-<font size="15">**V4 Alpha 2.5**
+[<font size="15">**V4 Alpha 2.5**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)
     &nbsp;&nbsp;&nbsp;
 <font size="15">**V4 Alpha 3**
     &nbsp;&nbsp;&nbsp;
