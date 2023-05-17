@@ -457,98 +457,9 @@
 
 	<br>
 	
-	| Lapis Lazuli | Selenite |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lapis_Lazuli.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Selenite.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Onyx | Onyx Stone | Onyx Crystal |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx_Crystal.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Jasper | Jasper Stone | Jasper Crystal |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper_Crystal.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Opal | Opalite |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Opal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Opalite.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Topaz | Agate | Carnelian |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Topaz.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Agate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Carnelian.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Ametrine | Aventurine |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ametrine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aventurine.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Talc | Talcum Powder | Tridymite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Talc.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Talcum_powder.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tridymite.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Moganite | Stibnite | Cristobalite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Moganite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stibnite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cristobalite.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Marcasite | Realgar |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marcasite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realgar.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Calomel | Calomel Stone | Calomel Crystal |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel_Crystal.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Cuprite | Aqeeq | Lechatelierite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cuprite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aqeeq.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lechatelierite.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Sphalerite | Orpiment | Prasiolite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphalerite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orpiment.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Prasiolite.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Chrysoprase | Chalcedony |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chrysoprase.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chalcedony.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Lonsdaleite Crystal |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Lonsdaleite_Crystal.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Jewelry | Colloidal Crystal |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jewelry.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colloidal_Crystal.webp?raw=true" width="256" /> |
-
-	</div></p></details>
 
 
-  - <details><summary>🧱🧶 Cloth</summary><p><div align="center">
+  - <details><summary>布料</summary><p><div align="center">
 
 	| Cloth | Cotton | Polyester |
 	| :-: | :-: | :-: |
@@ -610,58 +521,10 @@
 	
 	<br>
 	
-	| Rolag | Roving | Lurex |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rolag.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Roving.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lurex.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Swanskin Cloth | Tansukh Cloth |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Swanskin_Cloth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tansukh_Cloth.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Jute Cloth | Barkcloth |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jute_Cloth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Barkcloth.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Quilt | Blanket | Pillow |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Quilt.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blanket.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pillow.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Lint | Cushion | Pin Cushion |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lint.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cushion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pin_Cushion.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Rug | Carpet |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rug.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Carpet.webp?raw=true" width="256" /> |
-
-	<br>
-	
 	| Persian Rug | Qom Rug |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Persian_Rug.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Qom_Rug.webp?raw=true" width="256" /> |
 
-	<br>
-
-	| Yarn | Knitted | Crochet |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Yarn.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Knitted.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Crochet.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Cross Stich | Needle Point | Embroidery |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cross_Stich.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Needle_Point.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Embroidery.webp?raw=true" width="256" /> |
-	
 	<br>
 
 	| Applique | Lace | Macrame |
@@ -670,17 +533,6 @@
 
 	<br>
 	
-	| Patch | Sewing | Sewen |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Patch.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sewing.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sewen.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Weave | Weaving | Quilling |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Weave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Weaving.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Quilling.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Net | Netting |
 	| :-: | :-: |
@@ -695,7 +547,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🥤 Plastic and Foam</summary><p><div align="center">
+  - <details><summary>塑料/泡沫</summary><p><div align="center">
 
 	| Plastic | Polyimide |
 	| :-: | :-: |
@@ -776,7 +628,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🧤 Rubber</summary><p><div align="center">
+  - <details><summary>橡胶</summary><p><div align="center">
 
 	| Rubber | Latex | Nitrile |
 	| :-: | :-: | :-: |
@@ -784,40 +636,10 @@
 	
 	<br>
 	
-	| Vinyl | Silicone | Linoleum |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vinyl.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silicone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Linoleum.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Arborite | Formica | Sandarac |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Arborite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Formica.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sandarac.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
-
-  - <details><summary>🧱🍮 Gelatinous and Spongy</summary><p><div align="center">
-
-	| Gel | Aerogel | Softgel |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aerogel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Softgel.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Silica Gel | Ballistic Gel | Ballistic Foam |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silica_Gel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ballistic_Gel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ballistic_Foam.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Gelatinous | Sponge | Spongy |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gelatinous.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sponge.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spongy.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  - <details><summary>🧱🕯 Wax</summary><p><div align="center">
+  - <details><summary>蜡</summary><p><div align="center">
 
 	| Wax | Wax Paper | Shellac |
 	| :-: | :-: | :-: |
@@ -832,7 +654,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🧊 Ice and Snow</summary><p><div align="center">
+  - <details><summary>冰</summary><p><div align="center">
 
 	| Ice | Blue-Ice | Dry Ice |
 	| :-: | :-: | :-: |
@@ -853,7 +675,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🐱 Hair and Fur</summary><p><div align="center">
+  - <details><summary>毛发</summary><p><div align="center">
 
 	| Hair | Hairy |
 	| :-: | :-: |
@@ -922,54 +744,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱 Other Solids</summary><p><div align="center">
-
-	| Material |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Material.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Amber | Ivory | Bone |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Amber.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ivory.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bone.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Fibrin | Collagen |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fibrin.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Collagen.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Inlay | Trash |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inlay.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Trash.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Googly Eyes |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Googly_Eyes.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Pellets | Filament |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pellets.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Filament.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Celluloid |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Celluloid.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
-
-- <details><summary>🧱💧 Liquids</summary><p><div align="center">
+- <details><summary>液体</summary><p><div align="center">
 
 	| Liquid | Fluidity |
 	| :-: | :-: |
@@ -1026,9 +801,9 @@
   </div></p></details>
 
 
-- <details><summary>🧱🧪 Non-Newtonian Fluids and Polymers</summary><p>
+- <details><summary>非牛顿流体</summary><p>
 
-  - <details><summary>🧱⚗️ Slime and Putty</summary><p><div align="center">
+  - <details><summary>粘土</summary><p><div align="center">
 
 	| Slime | Flubber |
 	| :-: | :-: |
@@ -1043,7 +818,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🩹 Tape and Adhesives</summary><p><div align="center">
+  - <details><summary>胶带</summary><p><div align="center">
 
 	| Tape | Scotch Tape | Clear Tape |
 	| :-: | :-: | :-: |
@@ -1082,30 +857,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱🧪 Other Non-Newtonian Fluids and Polymers</summary><p><div align="center">
-
-	| Non-Newtonian Fluid |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Non-Newtonian_Fluid.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Polymer | Orbeez | Oobleck |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Polymer.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orbeez.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oobleck.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Play-Doh | Plastisol |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Play-Doh.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Plastisol.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
-
-- <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
+- <details><summary>气体</summary><p><div align="center">
 
 	| Air |
 	| :-: |
@@ -1156,7 +908,7 @@
   </div></p></details>
 
 
-- <details><summary>🧱✨ Powders and Particulates</summary><p><div align="center">
+- <details><summary>烟尘</summary><p><div align="center">
 
 	| Powder | Smoke | Smoke Ring |
 	| :-: | :-: | :-: |
@@ -1183,7 +935,7 @@
   </div></p></details>
 
 
-- <details><summary>🧱⚡ Plasma and Energy</summary><p><div align="center">
+- <details><summary>等离子体</summary><p><div align="center">
 
 	| Plasma | Energy |
 	| :-: | :-: |
@@ -1230,5 +982,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">Go Back To Home Page</a></h6>
 </div>
