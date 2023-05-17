@@ -1,14 +1,10 @@
-<h2>🖌 Drawing and Art Mediums</h2>
+<h2>Drawing and Art Mediums</h2>
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
+[MidJourney V1](/Pages/MJ_V1/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
+[MidJourney V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Drawing_and_Art_Mediums.md)
 
 
 </div>
@@ -17,9 +13,9 @@
 <br>
 
 
-- <details><summary>🖌✏ Illustration and Drawing</summary><p>
+- <details><summary>Illustration and Drawing</summary><p>
 
-  - <details><summary>✏🖼 Drawing Types</summary><p><div align="center">
+  - <details><summary>✏Drawing Types</summary><p><div align="center">
 
 	| Sketch | Drawing | Doodle |
 	| :-: | :-: | :-: |
@@ -154,7 +150,7 @@
 	</div></p></details>
 
 
-  - <details><summary>✏🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
+  - <details><summary>✏Crayon, Chalk, and Pastel</summary><p><div align="center">
 
 	| Crayon | Chalk | Pastel Art |
 	| :-: | :-: | :-: |
@@ -171,9 +167,9 @@
   </p></details>
 
 
-- <details><summary>🖌🎨 Paint</summary><p>
+- <details><summary>Paint</summary><p>
 
-  - <details><summary>🎨🖼 Painting Types</summary><p><div align="center">
+  - <details><summary>Painting Types</summary><p><div align="center">
 
 	| Painting | Canvas | Hard Edge Painting |
 	| :-: | :-: | :-: |
@@ -303,7 +299,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎨 Paint Types</summary><p><div align="center">
+  - <details><summary>Paint Types</summary><p><div align="center">
 
 	| Paint | Oil Paint | Tempera Paint |
 	| :-: | :-: | :-: |
@@ -356,7 +352,7 @@
   </p></details>
 
 
-- <details><summary>🖌🔠 Text</summary><p><div align="center">
+- <details><summary>Text</summary><p><div align="center">
 
 	| Hypergraphy | Asemic Writing |
 	| :-: | :-: |
@@ -407,9 +403,9 @@
 	</div></p></details>
 
 
-- <details><summary>🖌🖨 Printed Material</summary><p>
+- <details><summary>Printed Material</summary><p>
 
-  - <details><summary>🖨📄 Print Types</summary><p><div align="center">
+  - <details><summary>Print Types</summary><p><div align="center">
 
 	| Print | Printed | 3D Printed |
 	| :-: | :-: | :-: |
@@ -484,7 +480,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖨🟫 Block Printing</summary><p><div align="center">
+  - <details><summary>Block Printing</summary><p><div align="center">
 
 	| Block Printing |
 	| :-: |
@@ -498,7 +494,7 @@
 
 	</div></p></details>
 
-  - <details><summary>🖨🃏 Cards and Stamps</summary><p><div align="center">
+  - <details><summary>Cards and Stamps</summary><p><div align="center">
 
 	| Stamp | Postage Stamp | Business Card |
 	| :-: | :-: | :-: |
@@ -513,7 +509,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖨📚 Books and Posters</summary><p><div align="center">
+  - <details><summary>Books and Posters</summary><p><div align="center">
 
 	| Magazine | Comic Book | Underground Comix |
 	| :-: | :-: | :-: |
@@ -542,9 +538,9 @@
   </p></details>
 
 
-- <details><summary>🖌🎲 Physical Mediums</summary><p>
+- <details><summary>Physical Mediums</summary><p>
 
-  - <details><summary>🎲📄 Origami</summary><p><div align="center">
+  - <details><summary>Origami</summary><p><div align="center">
 
 	| Origami | Rigid Origami | Modular Origami |
 	| :-: | :-: | :-: |
@@ -565,7 +561,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲🀣 Mosaic</summary><p><div align="center">
+  - <details><summary>Mosaic</summary><p><div align="center">
 
 	| Mosaic | Micromosaic | Glass Mosaic |
 	| :-: | :-: | :-: |
@@ -592,7 +588,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲🖼 Framed, Banner, and Decal</summary><p><div align="center">
+  - <details><summary>Framed, Banner, and Decal</summary><p><div align="center">
 
 	| Frame | Framed |
 	| :-: | :-: |
@@ -661,7 +657,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
+  - <details><summary>Carving, Etching, and Modeling</summary><p><div align="center">
 
 	| Carving | Pyrography | Etching |
 	| :-: | :-: | :-: |
@@ -820,7 +816,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲🏺 Pottery and Glass</summary><p><div align="center">
+  - <details><summary>Pottery and Glass</summary><p><div align="center">
 
 	| Glaze | Overglaze |
 	| :-: | :-: |
@@ -889,7 +885,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲🏮 Scrapbooking and Collages</summary><p><div align="center">
+  - <details><summary>Scrapbooking and Collages</summary><p><div align="center">
 
 	| Collage | Photocollage | Fotocollage |
 	| :-: | :-: | :-: |
@@ -904,7 +900,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲💡 Light</summary><p><div align="center">
+  - <details><summary>Light</summary><p><div align="center">
 
 	| Light Art | Light Painting | Lightpainting |
 	| :-: | :-: | :-: |
@@ -919,7 +915,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🎲 Other Physical Mediums</summary><p><div align="center">
+  - <details><summary>Other Physical Mediums</summary><p><div align="center">
 
 	| Arts and Crafts | Resin | Enamel Pin |
 	| :-: | :-: | :-: |
@@ -990,7 +986,7 @@
   </p></details>
 
 
-- <details><summary>🖌 Other</summary><p><div align="center">
+- <details><summary>Other</summary><p><div align="center">
 
 	| Negative Space | Outlined | Middle Ground |
 	| :-: | :-: | :-: |
