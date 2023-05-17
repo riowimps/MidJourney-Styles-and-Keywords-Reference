@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[MidJourney V1](/Pages/MJ_V1/Style_Pages/Sphere/Colors_and_Palettes.md)
 [MidJourney V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
 <br>
 
