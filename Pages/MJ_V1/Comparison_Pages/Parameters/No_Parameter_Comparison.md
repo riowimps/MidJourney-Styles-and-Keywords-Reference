@@ -1,18 +1,15 @@
-<h2>🚫 --no Parameter</h2>
-<b>The No Parameter will tell the AI to prevent adding a specific thing to an image</b>
+<h2>🚫 无参数</h2>
 <br>
 
 <hr><!--------------->
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_active.webp?raw=true" alt="MidJourney V1" height="64" />]()
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
+<font size="15">**MidJourney V1**
+    &nbsp;&nbsp;&nbsp;
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Parameters/No_Parameter_Comparison.md)
 
 </div>
-
 <hr>
 <br>
 
@@ -55,5 +52,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>
