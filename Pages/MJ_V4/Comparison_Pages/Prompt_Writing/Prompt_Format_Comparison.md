@@ -1,4 +1,4 @@
-<h2>⌨ Prompt Format Comparison</h2>
+<h2> 提示格式对比    </h2>
 
 <hr><!--------------->
 <div align="center">
