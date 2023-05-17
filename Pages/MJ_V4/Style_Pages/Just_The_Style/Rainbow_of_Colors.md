@@ -1,7 +1,7 @@
 <h2>Rainbow of Midjourney Colors</h2>
 
 <div align="center">
-[idJourney V4]()
+MidJourney V4
 
 </div>
 
