@@ -5,7 +5,7 @@
 
 [MidJourney V1](/Pages/MJ_V1/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[MidJourney V4](Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
+MidJourney V4
 
 
 <br>
