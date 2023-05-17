@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Objects.md)
+<font size="15">**MidJourney V4**
 <br>
 
 </div>
