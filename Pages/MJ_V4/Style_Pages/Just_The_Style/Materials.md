@@ -1,25 +1,10 @@
-<h2>🧱 Materials</h2>
-
-<div align="center">
-
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Materials.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Materials.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Materials.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Materials.md)
-<br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Materials.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Materials.md)
-
-
-</div>
-
-<hr>
+<h2>材料</h2>
 <br>
 
 
-- <details><summary>🧱💎 Solids</summary><p>
+- <details><summary>固体</summary><p>
 
-  - <details><summary>🧱🌳 Wood and Paper</summary><p><div align="center">
+  - <details><summary>木材/纸</summary><p><div align="center">
 
 	| Wooden |
 	| :-: |
@@ -57,17 +42,6 @@
 	
 	<br>
 	
-	| Pine-Wood | Cherry-Wood | Birch-Wood |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pine-Wood.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cherry-Wood.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Birch-Wood.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Cedar-Wood | Wood-Stain | Wooden Fence |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cedar-Wood.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wood-Stain.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wooden_Fence.webp?raw=true" width="256" /> |
-	
-	<br>
 	
 	| Fiber-Reinforced Composite | Containerboard |
 	| :-: | :-: |
@@ -105,25 +79,6 @@
 
 	<br>
 
-	| Wove Paper | Ingres Paper | Lokta Paper |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wove_Paper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ingres_Paper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lokta_Paper.webp?raw=true" width="256" /> |
-
-	<br>
-
-
-	| Washi | Wasli | Vellum |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Washi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wasli.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vellum.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Papyrus | Ancient Egyptian Papyri |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Papyrus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ancient_Egyptian_Papyri.webp?raw=true" width="256" /> |
-
-	<br>
-
 	| Manuscript Paper | Medieval Parchment |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manuscript_Paper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Medieval_Parchment.webp?raw=true" width="256" /> |
@@ -154,12 +109,6 @@
 
 	<br>
 	
-	| Hemp Fiber | Hemp Paper | Cellulose |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hemp_Fiber.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hemp_Paper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cellulose.webp?raw=true" width="256" /> |
-
-	<br>
-	
 	| Plastic-Coated Paper | Tar Paper |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Plastic-Coated_Paper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tar_Paper.webp?raw=true" width="256" /> |
@@ -173,7 +122,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱⛱ Soils</summary><p><div align="center">
+  - <details><summary>土壤</summary><p><div align="center">
 
 	| Soil | Dirt | Clay |
 	| :-: | :-: | :-: |
@@ -206,7 +155,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱⛏ Stone and Minerals</summary><p><div align="center">
+  - <details><summary>矿石</summary><p><div align="center">
 
 	| Stone | Cobblestone | Pebbles |
 	| :-: | :-: | :-: |
@@ -243,114 +192,22 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mineral.webp?raw=true" width="256" /> |
 
 	<br>
-	
-	| Coal | Sulfur | Slag |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Coal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sulfur.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Slag.webp?raw=true" width="256" /> |
-	
-	<br>
 
 	| Slate | Limestone | Sodalime |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Slate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Limestone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sodalime.webp?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Quartzite | Travertine | Minium |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Quartzite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Travertine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Minium.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Chert | Fulgurite | Geyserite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chert.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fulgurite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Geyserite.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Carbon Fiber | Graphene | Carbon Nanotubes |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Carbon_Fiber.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Graphene.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Carbon_Nanotubes.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Concrete | Hempcrete | Sidewalk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concrete.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hempcrete.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sidewalk.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Asphalt | Road | Stone Tablet |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Asphalt.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Road.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stone_Tablet.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Brick | Terracotta | Pottery |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brick.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Terracotta.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pottery.webp?raw=true" width="256" /> |
-	
-	<br>
-	
 	| Ceramic | Enamel | Tile |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ceramic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Enamel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tile.webp?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Sheetrock | Plaster | Asbestos |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sheetrock.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Plaster.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Asbestos.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Vermiculite | Perlite | Fossil |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vermiculite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Perlite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fossil.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
 
-  - <details><summary>🧱☄ Meteorite and Geode</summary><p><div align="center">
-
-	| Meteorite | Hexahedrite | Octahedrite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hexahedrite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Octahedrite.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Iron Meteorite | Stony-Iron Meteorite | Iron Meteorite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Iron_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stony-Iron_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Iron_Meteorite.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| IIAB Meteorite | IIE Iron Meteorite | Gujba Meteorite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/IIAB_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/IIE_Iron_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gujba_Meteorite.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Achondrite Meteorite | Chondrite Meteorite | Chondrule Meteorite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Achondrite_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chondrite_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chondrule_Meteorite.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Mesosiderite Meteorite | Lodranite Meteorite | Pallasite Meteorite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mesosiderite_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lodranite_Meteorite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pallasite_Meteorite.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Fluorescent Dugway Geode |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fluorescent_Dugway_Geode.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🧱🔩 Metal</summary><p><div align="center">
+  - <details><summary>金属</summary><p><div align="center">
 
 	| Metallic | Metal | Liquid Metal |
 	| :-: | :-: | :-: |
@@ -418,12 +275,6 @@
 	
 	<br>
 
-	| Tarnished Silver |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tarnished_Silver.webp?raw=true" width="256" /> |
-	
-	<br>
-
 	| Gold | Rose-Gold | Tarnished Gold |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gold.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rose-Gold.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tarnished_Gold.webp?raw=true" width="256" /> |
@@ -440,18 +291,6 @@
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chromium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Chrome.webp?raw=true" width="256" /> |
 
-	<br>
-
-	| Bismuth | Bismuth Crystals |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bismuth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bismuth_Crystals.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Liquid Bismuth | Melted Bismuth |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Liquid_Bismuth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Melted_Bismuth.webp?raw=true" width="256" /> |
-	
 	<br>
 
 	| Mercury | Mercury Metal | Liquid Mercury |
@@ -476,23 +315,10 @@
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Melted_Indium.webp?raw=true" width="256" /> |
 
-
-	| Magnesium | Magnesium Metal | Zinc |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnesium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnesium_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zinc.webp?raw=true" width="256" /> |
-
-	<br>
-	
 	| Lead | Lead Metal |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lead.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lead_Metal.webp?raw=true" width="256" /> |
 	
-	<br>
-
-	| Tungsten | Cobalt |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tungsten.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cobalt.webp?raw=true" width="256" /> |
-
 	<br>
 	
 	| Zirconium | Cubic Zirconium |
@@ -516,18 +342,6 @@
 	| Uranium |
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Uranium.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Constantan | Hepatizon | Hepatizon Metal |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Constantan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hepatizon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hepatizon_Metal.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Nichrome | Nichrome Metal | Nichrome Wire |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome_Wire.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -569,7 +383,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🧱💎 Glass and Crystal</summary><p><div align="center">
+  - <details><summary>玻璃材料</summary><p><div align="center">
 
 	| Glassy | Stained Glass | Stained Glass Windows |
 	| :-: | :-: | :-: |
