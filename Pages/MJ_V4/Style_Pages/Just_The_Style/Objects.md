@@ -516,7 +516,7 @@
   </div></p></details>
 
 
-- <details><summary>服饰<p><div align="center">
+- <details><summary>服饰</summary><p><div align="center">
 
 	| Uniform | Outfit | Wearable |
 	| :-: | :-: | :-: |
