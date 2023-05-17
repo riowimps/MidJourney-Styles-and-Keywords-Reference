@@ -1,15 +1,10 @@
-<h2>🎨 Colors and Palettes</h2>
+<h2>Colors and Palettes</h2>
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Colors_and_Palettes.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Colors_and_Palettes.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
+[MidJourney V1](/Pages/MJ_V1/Style_Pages/Sphere/Colors_and_Palettes.md)
+[MidJourney V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Colors_and_Palettes.md)
-
 
 </div>
 
@@ -17,10 +12,10 @@
 <br>
 
 
-- <details><summary>🎨🔴 Colors</summary><p>
+- <details><summary>Colors</summary><p>
 
 
-	- <details><summary>🎨🔴 Basic Colors</summary><p><div align="center">
+	- <details><summary>Basic Colors</summary><p><div align="center">
 
 		| White | Black | Brown |
 		| :-: | :-: | :-: |
@@ -65,7 +60,7 @@
 		</div></p></details>
 
 
-	- <details><summary>🎨🔵 Extended Colors</summary><p><div align="center">
+	- <details><summary>Extended Colors</summary><p><div align="center">
 
 		| Tan | Beige |
 		| :-: | :-: |
@@ -92,7 +87,7 @@
 		</div></p></details>
 
 
-	- <details><summary>🎨⚫ Dark Variations</summary><p><div align="center">
+	- <details><summary>Dark Variations</summary><p><div align="center">
 
 		| Dark-White | Dark-Brown |
 		| :-: | :-: |
@@ -125,7 +120,7 @@
 		</div></p></details>
 
 
-	- <details><summary>🎨⚪ Light Variations</summary><p><div align="center">
+	- <details><summary>Light Variations</summary><p><div align="center">
 
 		| Light-Black | Light-Brown |
 		| :-: | :-: |
@@ -159,7 +154,7 @@
 		</div></p></details>
 
 
-	- <details><summary>🎨🔶 Vivid Variations</summary><p><div align="center">
+	- <details><summary>Vivid Variations</summary><p><div align="center">
 
 		| Vivid-Brown | Vivid-Maroon | Vivid-Red |
 		| :-: | :-: | :-: |
@@ -188,7 +183,7 @@
   </p></details>
 
 
-- <details><summary>🎨 Color Based Designs</summary><p><div align="center">
+- <details><summary>Color Based Designs</summary><p><div align="center">
 
 	| Color | Colour |
 	| :-: | :-: |
@@ -293,7 +288,7 @@
   </p></details>
 
 
-- <details><summary>🎨🖌 Chromatic Palettes</summary><p><div align="center">
+- <details><summary>Chromatic Palettes</summary><p><div align="center">
 
 	| Palette | Color Palette |
 	| :-: | :-: |
@@ -386,7 +381,7 @@
   </div></p></details>
 
 
-- <details><summary>🎨🖌 Monochromatic Palettes</summary><p><div align="center">
+- <details><summary>Monochromatic Palettes</summary><p><div align="center">
 
 	| Monochromatic | Monochrome |
 	| :-: | :-: |
@@ -419,7 +414,7 @@
 	</div></p></details>
 
 
-- <details><summary>🎨🔲 Contrast</summary><p><div align="center">
+- <details><summary>Contrast</summary><p><div align="center">
 
 	| Contrast |
 	| :-: |
@@ -434,7 +429,7 @@
 	</div></p></details>
 
 
-- <details><summary>🎨🖥 Color Models</summary><p><div align="center">
+- <details><summary>Color Models</summary><p><div align="center">
 
 	| Color Model |
 	| :-: |
@@ -479,7 +474,7 @@
 	</div></p></details>
 
 
-- <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p><div align="center">
+- <details><summary>Color Motion Picture Film Systems</summary><p><div align="center">
 
 	| Technicolor | Kinemacolor |
 	| :-: | :-: |
