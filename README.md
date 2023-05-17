@@ -27,12 +27,6 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_design_styles_light.webp?raw=true" width = 249>
   <img alt="🖼 Design Styles" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_design_styles.webp?raw=true" width = 249>
 </picture></a>
-<a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Digital.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_digital.webp?raw=true" width = 249>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_digital_light.webp?raw=true" width = 249>
-  <img alt="🖥 Digital" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_digital.webp?raw=true" width = 249>
-</picture></a>
-<br>
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_artists.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_artists_light.webp?raw=true" width = 249>
