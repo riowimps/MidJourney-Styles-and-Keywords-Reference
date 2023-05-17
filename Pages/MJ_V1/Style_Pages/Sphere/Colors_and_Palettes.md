@@ -1,4 +1,4 @@
-<h2>🎨 Colors and Palettes</h2>
+<h2>Colors and Palettes</h2>
 
 <div align="center">
 
