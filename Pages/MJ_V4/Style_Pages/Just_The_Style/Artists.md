@@ -1,16 +1,13 @@
 <h2>Artists</h2>
 
 <div align="center">
-
-[V1](/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
-[V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Artists.md)
 <br>
 </div>
 
 <hr>
 <br>
 
-- <details><summary>Realism</summary><p><div align="center">
+- <details><summary>现实主义</summary><p><div align="center">
 
 	| Painting By Ivan Shishkin | Painting By Zdzislaw Beksinski |
 	| :-: | :-: |
@@ -37,7 +34,7 @@
   </div></p></details>
 
 
-- <details><summary>Surrealism</summary><p><div align="center">
+- <details><summary>超现实主义</summary><p><div align="center">
 
 	| Painting By Salvador Dali | Painting By Pablo Picasso | Painted By Andre Masson |
 	| :-: | :-: | :-: |
@@ -58,7 +55,7 @@
   </div></p></details>
   
 
-- <details><summary>Idealism</summary><p><div align="center">
+- <details><summary>理想主义</summary><p><div align="center">
 
 	| Painting By Jean Delville |
 	| :-: |
