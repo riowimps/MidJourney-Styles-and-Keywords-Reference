@@ -1,18 +1,21 @@
-<h2>💎 --quality Parameter</h2>
-<b>The Quality Parameter will define how long the AI spends creating your image.</b>
+<h2>质量参数</h2>
+<b>质量参数代表AI生成图片所需的时间.</b>
 <br>
 
 <hr><!--------------->
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_active.webp?raw=true" alt="MidJourney V1" height="64" />]()
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md)
+<font size="15">**MidJourney V1**
+    &nbsp;&nbsp;&nbsp;
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Parameters/Quality_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Parameters/Quality_Comparison.md)
+
+[<font size="15">**V4 All**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison_V4_All.md)&nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 1**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Older_Versions/V4_Alpha_1.md)&nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 2.5**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)&nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 3**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Older_Versions/V4_Alpha_3.md)&nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 3.6**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md)&nbsp;&nbsp;&nbsp;
 
 </div>
 
