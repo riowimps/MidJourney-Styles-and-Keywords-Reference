@@ -1,12 +1,7 @@
-<h2>🌈 Rainbow of Midjourney Colors</h2>
+<h2>Rainbow of Midjourney Colors</h2>
 
 <div align="center">
-
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Rainbow_of_Colors.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Rainbow_of_Colors.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Rainbow_of_Colors.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />]()
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_full.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Rainbow_of_Colors.md)
+[idJourney V4]()
 
 </div>
 
