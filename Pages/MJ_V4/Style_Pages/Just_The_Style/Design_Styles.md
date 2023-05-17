@@ -1,4 +1,4 @@
-<h2>🖼 Design Styles</h2>
+<h2>设计风格</h2>
 
 <div align="center">
 
@@ -346,69 +346,10 @@ MidJourney V4
 	
 	<br>
 	
-	| Concepts-Color Synesthesia | Concepts-Shape Synesthesia |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concepts-Color_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concepts-Shape_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Concept-Sound Synesthesia | Concept-Smell Synesthesia |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concept-Sound_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concept-Smell_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
 	
 	| Mathematical Concepts-Visual Synesthesia | Spatial-Sequence Synesthesia | Number-Form Synesthesia |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mathematical_Concepts-Visual_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spatial-Sequence_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Number-Form_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Gustatory-Visual Synesthesia | Gustatory-Auditory Synesthesia | Gustatory-Tactile Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gustatory-Visual_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gustatory-Auditory_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gustatory-Tactile_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Olfactory-Visual Synesthesia | Kinetics-Color Synesthesia |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Olfactory-Visual_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Kinetics-Color_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Grapheme-Shape Synesthesia | Grapheme-Texture Synesthesia | Grapheme-Image Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Shape_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Texture_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Image_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Grapheme-Color Synesthesia | Grapheme-Sound Synesthesia | Grapheme-Temperature Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Color_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Sound_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Temperature_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Grapheme-Smell Synesthesia | Grapheme-Taste Synesthesia |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Smell_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grapheme-Taste_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Lexeme-Olfactory Synesthesia | Lexeme-Taste Synesthesia | Lexical-Gustatory Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lexeme-Olfactory_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lexeme-Taste_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lexical-Gustatory_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Lexeme-Motor Synesthesia |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lexeme-Motor_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Lexeme-Color Synesthesia | Morpheme-Color Synesthesia | Words-Color Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lexeme-Color_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Morpheme-Color_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Words-Color_Synesthesia.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -418,26 +359,15 @@ MidJourney V4
 	
 	<br>
 	
-	| Letter-Texture Synesthesia | Letter-Image Synesthesia | Letter-Personality Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Texture_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Image_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Personality_Synesthesia.webp?raw=true" width="256" /> |
-	
-	<br>
 	
 	| Letter-Smell Synesthesia | Letter-Taste Synesthesia |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Smell_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Taste_Synesthesia.webp?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Letter-Sound Synesthesia | Letter-Spatial Location Synesthesia | Letter-Temperature Synesthesia |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Sound_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Spatial_Location_Synesthesia.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Letter-Temperature_Synesthesia.webp?raw=true" width="256" /> |
-
   </div></p></details>
 
 
-- <details><summary>🖼👩‍🎨 Art Styles</summary><p><div align="center">
+- <details><summary>美术风格</summary><p><div align="center">
 
     | Pop-Art | Warhol | Fauvism |
     | :-: | :-: | :-: |
