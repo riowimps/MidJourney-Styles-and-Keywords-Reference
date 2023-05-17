@@ -1,4 +1,4 @@
-<h2>🎭 Themes</h2>
+<h2>Themes</h2>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <br>
 
 
-- <details><summary>🎭⛱ Realism/Abstraction</summary><p><div align="center">
+- <details><summary>Realism/Abstraction</summary><p><div align="center">
 
 	| Realistic | Hyperrealistic | Hyper Real |
 	| :-: | :-: | :-: |
@@ -140,7 +140,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭💾 Retro/Modern</summary><p><div align="center">
+- <details><summary>Retro/Modern</summary><p><div align="center">
 
 	| Retro | Retrowave |
 	| :-: | :-: |
@@ -215,7 +215,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭🪐 Sci-fi</summary><p><div align="center">
+- <details><summary>Sci-fi</summary><p><div align="center">
 
 	| Sci-fi | Alchemy |
 	| :-: | :-: |
@@ -332,7 +332,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭🌅 Atmosphere</summary><p><div align="center">
+- <details><summary>Atmosphere</summary><p><div align="center">
 
 	| Dark Atmosphere | Light Atmosphere | Reflective Atmosphere |
 	| :-: | :-: | :-: |
@@ -401,7 +401,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭🛋 Rooms</summary><p><div align="center">
+- <details><summary>Rooms</summary><p><div align="center">
 
 	| Room |
 	| :-: |
@@ -542,7 +542,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
+- <details><summary>Architecture and Manufactured</summary><p><div align="center">
 
     | Cityscape | Architecture | Balinese Architecture |
 	| :-: | :-: | :-: |
@@ -695,7 +695,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
+- <details><summary>Music Styles</summary><p><div align="center">
 
 	| Music | Musical | Musical Notation |
 	| :-: | :-: | :-: |
@@ -759,7 +759,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
+- <details><summary>Cartoons, Anime, and Comics</summary><p><div align="center">
 
 	| Cartoon | Marvel Comics |
 	| :-: | :-: |
@@ -786,7 +786,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
+- <details><summary>Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
 
 	| Crystalcore | Sparklecore |
 	| :-: | :-: |
@@ -825,7 +825,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭😁 Mood Based Themes</summary><p><div align="center">
+- <details><summary>Mood Based Themes</summary><p><div align="center">
 
 	| Warmcore | Lovecore |
 	| :-: | :-: |
@@ -918,7 +918,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
+- <details><summary>Other Themes</summary><p><div align="center">
 
 	| Dark Aesthetic |
 	| :-: |
@@ -1001,5 +1001,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">Go Back To Home Page</a></h6>
 </div>
