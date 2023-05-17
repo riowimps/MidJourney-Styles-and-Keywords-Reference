@@ -1,20 +1,12 @@
-<h2>色彩调色盘</h2>
+<h2>调色板</h2>
 
-<div align="center">
-
-[MidJourney V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
-<br>
-
-</div>
-
-<hr>
 <br>
 
 
-- <details><summary>Colors</summary><p>
+- <details><summary>颜色</summary><p>
 
 
-	- <details><summary>Basic Colors</summary><p><div align="center">
+	- <details><summary>基础颜色</summary><p><div align="center">
 
 		| White | Black | Brown |
 		| :-: | :-: | :-: |
@@ -42,7 +34,7 @@
 		</div></p></details>
 
 
-	- <details><summary>Extended Colors</summary><p><div align="center">
+	- <details><summary>扩展</summary><p><div align="center">
 
 		| Tan | Beige |
 		| :-: | :-: |
@@ -68,9 +60,6 @@
 		| Dark-Maroon | Dark-Red | Dark-Orange |
 		| :-: | :-: | :-: |
 		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dark-Maroon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dark-Red.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dark-Orange.webp?raw=true" width="256" /> |
-		
-
-
 		
 		<br>
 		
@@ -116,7 +105,7 @@
   </p></details>
 
 
-- <details><summary>Color Based Designs</summary><p><div align="center">
+- <details><summary>基于色彩的设计</summary><p><div align="center">
 
 	| Color | Colour |
 	| :-: | :-: |
@@ -164,7 +153,7 @@
 
 
 
-- <details><summary>Monochromatic Palettes</summary><p><div align="center">
+- <details><summary>Monochromatic</summary><p><div align="center">
 
 	| Monochromatic | Monochrome |
 	| :-: | :-: |
@@ -196,7 +185,7 @@
 
 	</div></p></details>
 
-- <details><summary>Color Models</summary><p><div align="center">
+- <details><summary>色彩模型</summary><p><div align="center">
 
 	| Color Model |
 	| :-: |
