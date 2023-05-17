@@ -2,13 +2,6 @@
 
 <div align="center">
 
-MidJourney V4
-<br>
-
-</div>
-
-<hr>
-<br>
 
 
 - <details><summary>简约/复杂</summary><p><div align="center">
@@ -405,17 +398,6 @@ MidJourney V4
 	
 	<br>
 
-	| Suprematism | Vorticism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Suprematism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vorticism.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Eccentrism | Ambiguous Art | Art Brut |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eccentrism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ambiguous_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_Brut.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Non-Objective Art |
 	| :-: |
@@ -423,17 +405,6 @@ MidJourney V4
 
 	<br>
 	
-	| Rayonism | Spectralism | Luminism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rayonism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spectralism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Luminism.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Muralism | Spatialism | Diptych |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Muralism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spatialism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Diptych.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Precisionism | Regionalism |
 	| :-: | :-: |
@@ -471,52 +442,16 @@ MidJourney V4
 
 	<br>
 
-	| Goth | Gothic | Gothic Horror |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Goth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gothic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Gothic_Horror.webp?raw=true" width="256" /> |
-
+	| Goth |
+	| :-: | 
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Goth.webp?raw=true" width="256" /> |
 	<br>
 
-	| Tubism | Naturalism | Idyllic |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tubism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Naturalism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Idyllic.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Vedute | Verism | Divisionism |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vedute.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Verism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Divisionism.webp?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Nuagisme | Representationalism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nuagisme.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Representationalism.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Sumatraism | Anachronism | Fluxus Art Movement |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sumatraism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anachronism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fluxus_Art_Movement.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Synthetism | Tonalism | Barbouillage |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Synthetism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tonalism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Barbouillage.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Orientalism | Symbolism | Lettrism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orientalism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Symbolism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lettrism.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Biedermeier | Dutch Golden Age |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Biedermeier.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dutch_Golden_Age.webp?raw=true" width="256" /> |
-
 	<br>
 
 	| Idealism | Purism | Intimism |
@@ -534,30 +469,6 @@ MidJourney V4
 	| Traditional Art | Temporary Art |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Traditional_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Temporary_Art.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Deco | Décor | Art Deco |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Deco.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Decor%20(2).webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_Deco.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Art Nouveau | Nouveau Realisme |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_Nouveau.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nouveau_Realisme.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Award Winning Art | Epic Composition | Drop Art |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Award_Winning_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epic_Composition.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Drop_Art.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Folk Art | Postcolonial Art |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Folk_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Postcolonial_Art.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -585,267 +496,22 @@ MidJourney V4
 
 	<br>
 
-	| Multidimensional Art | Op Art | Trompe-L'œil |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multidimensional_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Op_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Trompe-Loeil (2).webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Fourier Art | Nebulous Art | Mozarabic Art |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fourier_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nebulous_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mozarabic_Art.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Anti | Anti-Design |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anti.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anti-Design.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Compound Design | Grunge Revival Design | Stuckism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Compound_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grunge_Revival_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stuckism.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Tactile Design | Memphis Style | Memphis Design |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tactile_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Memphis_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Memphis_Design.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Tachisme | Avant-Garde | Transavantgarde |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tachisme.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Avant-Garde.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Transavantgarde.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Frasurbane | Sfumato | Neue Sachlichkeit |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Frasurbane.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sfumato.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neue_Sachlichkeit.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Triptych | Foreshortening | Booru |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Triptych.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Foreshortening.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Booru.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Silhouette | Topographic | Chiaroscuro |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silhouette.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Topographic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chiaroscuro.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Incoherents | Existential | Kitsch |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Incoherents.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Existential.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Kitsch.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Store-Brand | Contemporary | Costumbrismo |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Store-Brand.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Contemporary.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Costumbrismo.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Amate | Wuhtercuhler |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Amate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wuhtercuhler.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Brocade |
+	| Multidimensional Art |
 	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brocade.webp?raw=true" width="256" /> |
-
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multidimensional_Art.webp?raw=true" width="256" /> |
+	
 	<br>
 	
-	| Escapism | Ligne Claire |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Escapism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ligne_Claire.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Existentialism | Lovecraftian | Bohemianism |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Existentialism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lovecraftian.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bohemianism.webp?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Ukiyo-e |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ukiyo-e.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>🖼💫 Stylized</summary><p><div align="center">
-
-	| Design | Style | Stylized |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stylized.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Combine | Combination | Seamless |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Combine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Combination.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Seamless.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Layered | Photobash | Cut |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Layered.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Photobash.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cut.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Bubble Design | Extreme Bubble Design | Liquify |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bubble_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Liquify.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Jewel Tones | Blocky |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jewel_Tones.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blocky.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Lissajous | Patched |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lissajous.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Patched.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Alignment | Misalignment | Compression |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Alignment.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Misalignment.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Compression.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Droste Effect | Stabilimentum | Precision |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Droste_Effect.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stabilimentum.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Precision.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Molecular | Qubit |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Molecular.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Qubit.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Shockwave | Edge-To-Edge |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shockwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Edge-To-Edge.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Oddly Satisfying |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oddly_Satisfying.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Zygomorphic |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zygomorphic.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-
-- <details><summary>🖼 Other Styles</summary><p><div align="center">
-
-	| Generic |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Generic.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Balance | Proportion | Blending |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Balance.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Proportion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blending.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Representation |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Representation.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Lossy | Rodilius |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lossy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rodilius.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Kerkythea | Mottled |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Kerkythea.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mottled.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Qbist | Oilify |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Qbist.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oilify.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Entropy | Zalgo | Liminal |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Entropy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zalgo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Liminal.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Crooked | Cockeyed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Crooked.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cockeyed.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Extreme | Elite |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Extreme.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Elite.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Artifact |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Artifact.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Serendipity | Acidic |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Serendipity.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Acidic.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Oudemansiella-Mucida | Podoserpula-Miranda |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oudemansiella-Mucida.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Podoserpula-Miranda.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Gliophorus-Psittacinus |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gliophorus-Psittacinus.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Tint | Shade |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tint.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shade.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">Go Back To Home Page</a></h6>
 </div>
