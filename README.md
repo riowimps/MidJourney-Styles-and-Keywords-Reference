@@ -1,3 +1,6 @@
+# Midjourney prompt素材集/参数参考
+
+<div align='center'>
 <div align='center'>
 
 <h3><pre>风格</pre></h3>
