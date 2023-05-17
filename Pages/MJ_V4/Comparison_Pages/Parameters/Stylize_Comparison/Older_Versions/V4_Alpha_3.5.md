@@ -1,23 +1,22 @@
-<h2>🎇 --stylize Parameter</h2>
-<b>The Stylize Parameter will make your image more stylized.</b>
+<h2>风格参数</h2>
+<b>让图片变得更有风格</b>
 <br>
 
 <hr><!--------------->
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive_third.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/Stylize_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active_third.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_third.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Parameters/Stylize_Comparison.md)
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_test_inactive_half.webp?raw=true" alt="test" height="64" />](/Pages/Midjourney_Beta_Features/test/Comparison_Pages/Parameters/Stylize_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_testp_inactive_half.webp?raw=true" alt="testp" height="64" />](/Pages/Midjourney_Beta_Features/testp/Comparison_Pages/Parameters/Stylize_Comparison.md)
-
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/button_V4_all_inactive.webp?raw=true" alt="V4 All" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_V4_All.md)
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_2.5_inactive.webp?raw=true" alt="V4 Alpha 2.5" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_inactive.webp?raw=true" alt="V4 Alpha 3" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.md)
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3.5_active.webp?raw=true" alt="V4 Alpha 3.5" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.5.md)
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3.6_inactive.webp?raw=true" alt="V4 Alpha 3.6" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
+[<font size="15">**V4 All**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_V4_All.md)
+    &nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 2.5**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)
+    &nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 3**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.md)
+    &nbsp;&nbsp;&nbsp;
+<font size="15">**V4 Alpha 3.5**
+    &nbsp;&nbsp;&nbsp;
+[<font size="15">**V4 Alpha 3.6**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
 
 </div>
 
