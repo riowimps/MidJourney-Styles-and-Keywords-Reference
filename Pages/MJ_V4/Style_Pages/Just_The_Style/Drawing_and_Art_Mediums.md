@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[MidJourney V1](/Pages/MJ_V1/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
 [MidJourney V4](/Pages/MJ_V4/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
 <br>
 
