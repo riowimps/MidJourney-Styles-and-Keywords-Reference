@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<font size="15">**MidJourney V4**
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
 <br>
 [<font size="15">**V4 All**](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_V4_All.md)
     &nbsp;&nbsp;&nbsp;
