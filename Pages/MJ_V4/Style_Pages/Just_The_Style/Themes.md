@@ -31,18 +31,6 @@
 
 	<br>
 
-	| Classical Realism | New Realism | Contemporary Realism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Classical_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/New_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Contemporary_Realism.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Surreal | Surrealism | Unrealistic |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Surreal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Surrealism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unrealistic.webp?raw=true" width="256" /> |
-	
-	<br>
-
 	| Non-Fiction | Fiction | Science Fiction |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Non-Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Science_Fiction.webp?raw=true" width="256" /> |
@@ -55,11 +43,6 @@
 	
 	<br>
 
-	| Dreamlike | Dreamy | Fever-Dream |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dreamy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fever-Dream.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Dreampunk | Daydreampunk |
 	| :-: | :-: |
@@ -79,11 +62,6 @@
 	
 	<br>
 
-	| From Another Realm | Wonderland |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/From_Another_Realm.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wonderland.webp?raw=true" width="256" /> |
-	
-	<br>
 
 	| Lucid | Ethereal | Ethereality |
 	| :-: | :-: | :-: |
@@ -91,11 +69,6 @@
 
 	<br>
 
-	| Anemoiacore | Déjà vu |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anemoiacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Deja_vu.webp?raw=true" width="256" /> |
-
-	<br>
 	
 	| Abstract | Abstraction | Lyrical Abstraction |
 	| :-: | :-: | :-: |
@@ -120,24 +93,6 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illusion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Impossible.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nonsense.webp?raw=true" width="256" /> |
 
 	<br>
-
-	| Immaterial | Intangible |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Immaterial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Intangible.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Visual Rhetoric | Visual Exaggeration |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Visual_Rhetoric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Visual_Exaggeration.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Exaggerated | Exaggeration |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exaggerated.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exaggeration.webp?raw=true" width="256" /> |
-
-  </div></p></details>
 
 
 - <details><summary>Retro/Modern</summary><p><div align="center">
@@ -165,24 +120,6 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cyberpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Postcyberpunk.webp?raw=true" width="256" /> |
 	
 	<br>
-
-	| Atompunk | Nanopunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Atompunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nanopunk.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Raypunk | Rollerwave |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Raypunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rollerwave.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Rustic | Rusticcore | Rococopunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rustic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rusticcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rococopunk.webp?raw=true" width="256" /> |
-
-	<br>
 	
 	| Pre-Historic | Historic | Prehistoricore |
 	| :-: | :-: | :-: |
@@ -207,10 +144,6 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Futuristic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Future_Funk.webp?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Retro-Futurism | Cassette Futurism | Afrofuturist |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Retro-Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cassette_Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Afrofuturist.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -235,11 +168,6 @@
 	
 	<br>
 
-	| Auroracore | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Auroracore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
-
-	<br>
 	
 	| Magic | Magical | Magicpunk |
 	| :-: | :-: | :-: |
@@ -247,88 +175,6 @@
 
 	<br>
 	
-	| Spell |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spell.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Mystic | Mystical |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mystic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mystical.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Psychic | Metaphysical |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Psychic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metaphysical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metaphysical.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| UFO | Lightsaber |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/UFO.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lightsaber.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Aetherpunk | Decopunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aetherpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Decopunk.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Dracopunk | Dragoncore | Unicorncore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dracopunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dragoncore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unicorncore.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Fairycore | Fairy Folk | Spriggancore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fairy_Folk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spriggancore.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Angelcore | Supernatural |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Angelcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Supernatural.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Cryptidcore | Ghostcore | Spiritcore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cryptidcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ghostcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spiritcore.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cypernoir | Goblincore | Rangercore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cypernoir.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Goblincore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rangercore.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Witchcore | Wizardcore | Magewave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Witchcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wizardcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magewave.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Mythpunk |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mythpunk.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Eye of Providence |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eye_of_Providence.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Illuminati |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illuminati.webp?raw=true" width="256" /> |
-
   </div></p></details>
 
 
@@ -370,17 +216,6 @@
 	
 	<br>
 
-	| Chill Atmosphere | Relaxing Atmosphere | Peaceful Atmosphere |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Chill_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Relaxing_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Peaceful_Atmosphere.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Blissful Atmosphere | Serene Atmosphere | Zen Atmosphere |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Blissful_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Serene_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Zen_Atmosphere.webp?raw=true" width="256" /> |
-		
-	<br>
 
 	| Moody Atmosphere | Intense Atmosphere | Melancholic Atmosphere |
 	| :-: | :-: | :-: |
@@ -469,57 +304,10 @@
 
 	<br>
 
-	| Conservatory | Sun-Room |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Conservatory.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sun-Room.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Study | Library |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Study.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Library.webp?raw=true" width="256" /> |
-
-	<br>
 
 	| Office | Home-Office |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Office.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Home-Office.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Attic | Crawlspace |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Attic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Crawlspace.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Basement | Cellar | Wine-Cellar |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Basement.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wine-Cellar.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Rooftop | Underground |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rooftop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Underground.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Storage Room | Closet |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Storage_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Closet.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Laundry Room | Utility Room | Mud-Room |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Laundry_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Utility_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mud-Room.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Garage | Shed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Garage.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shed.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -533,11 +321,6 @@
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Game_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Home_Theater.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gym_Room.webp?raw=true" width="256" /> |
 
-	<br>
-
-	| Nursery | Prayer Room |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nursery.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Prayer_Room.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
