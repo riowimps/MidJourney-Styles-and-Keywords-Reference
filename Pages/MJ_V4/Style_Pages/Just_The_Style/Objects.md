@@ -1,15 +1,9 @@
-<h2>🎷 Objects</h2>
+<h2>物体</h2>
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Objects.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Objects.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Objects.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Objects.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Objects.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Objects.md)
-
 
 </div>
 
@@ -17,9 +11,9 @@
 <br>
 
 
-- <details><summary>🎷🍣 Food and Consumables</summary><p>
+- <details><summary>美食</summary><p>
 
-  - <details><summary>🍣🥝 Fruits and Vegetables</summary><p><div align="center">
+  - <details><summary>水果蔬菜</summary><p><div align="center">
 
 	| Fruit | Vegetable |
 	| :-: | :-: |
@@ -34,7 +28,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🥩 Meats, Cheeses, and Eggs</summary><p><div align="center">
+  - <details><summary>肉/蛋/奶酪</summary><p><div align="center">
 
 	| Beef | Wagyu | Tallow |
 	| :-: | :-: | :-: |
@@ -61,7 +55,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🍞 Bread</summary><p><div align="center">
+  - <details><summary>面包</summary><p><div align="center">
 
 	| Bread | Made of Bread | Pretzel |
 	| :-: | :-: | :-: |
@@ -82,7 +76,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🥜 Nuts and Beans</summary><p><div align="center">
+  - <details><summary>干果与豆子</summary><p><div align="center">
 
 	| Beans |
 	| :-: |
@@ -103,7 +97,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🍲 Dishes and Meals</summary><p><div align="center">
+  - <details><summary>菜肴</summary><p><div align="center">
 
 	| Pizza | Hotdog |
 	| :-: | :-: |
@@ -130,7 +124,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🥫 Sauces, Spreads, and Oils</summary><p><div align="center">
+  - <details><summary>酱汁、涂抹酱和油</summary><p><div align="center">
 		
 	| Vegetable Oil | Olive Oil |
 	| :-: | :-: |
@@ -175,7 +169,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🌿 Herbs and Spices</summary><p><div align="center">
+  - <details><summary>草本与香料</summary><p><div align="center">
 
 	| Cinnamon |
 	| :-: |
@@ -184,7 +178,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🍭 Candy and Sweets</summary><p><div align="center">
+  - <details><summary>糖果甜点</summary><p><div align="center">
 
 	| Cake | Wedding Cake | Cake Decorating |
 	| :-: | :-: | :-: |
@@ -277,7 +271,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣🍺 Beverages</summary><p><div align="center">
+  - <details><summary>饮料</summary><p><div align="center">
 
 	| Soda | Coffee | Tea |
 	| :-: | :-: | :-: |
@@ -304,7 +298,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🍣 Other Food and Consumables</summary><p><div align="center">
+  - <details><summary>其他美食</summary><p><div align="center">
 
 	| Food |
 	| :-: |
@@ -351,7 +345,7 @@
   </p></details>
 
 
-- <details><summary>🎷🦠 Microscopic Objects</summary><p><div align="center">
+- <details><summary>微观物体</summary><p><div align="center">
 
     | Atom | Fullerene | Nanoparticle |
     | :-: | :-: | :-: |
@@ -378,7 +372,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🖥 Digital Objects</summary><p><div align="center">
+- <details><summary>数字物品</summary><p><div align="center">
 
 	| Computer | Display |
 	| :-: | :-: |
@@ -447,7 +441,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🪀 Toys</summary><p><div align="center">
+- <details><summary>玩具</summary><p><div align="center">
 
 	| Toy |
 	| :-: |
@@ -522,7 +516,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷👚 Clothing</summary><p><div align="center">
+- <details><summary>服饰<p><div align="center">
 
 	| Uniform | Outfit | Wearable |
 	| :-: | :-: | :-: |
@@ -579,7 +573,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🎺 Instruments</summary><p><div align="center">
+- <details><summary>乐器</summary><p><div align="center">
 
 	| Instrument |
 	| :-: |
@@ -594,7 +588,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🚗 Vehicles</summary><p><div align="center">
+- <details><summary>汽车</summary><p><div align="center">
 
 	| Car | Airplane | Rocket Ship |
 	| :-: | :-: | :-: |
@@ -615,7 +609,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🍀 Good Luck Charms</summary><p><div align="center">
+- <details><summary>幸运符</summary><p><div align="center">
 
 	| Charm | Good-Luck-Charm |
 	| :-: | :-: |
@@ -630,7 +624,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🏆 Badges, Patches, and Trophies</summary><p><div align="center">
+- <details><summary>徽章/奖杯</summary><p><div align="center">
 
 	| Badge | Heraldic Badge |
 	| :-: | :-: |
@@ -645,7 +639,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷⚜ Ambiguous Objects</summary><p><div align="center">
+- <details><summary>模棱两可的物品</summary><p><div align="center">
 
 	| Object |
 	| :-: |
@@ -678,7 +672,7 @@
   </div></p></details>
 
 
-- <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
+- <details><summary>其他物体</summary><p><div align="center">
 
 	| Dichroic-Prism | Dispersive-Prism | Bubble |
 	| :-: | :-: | :-: |
