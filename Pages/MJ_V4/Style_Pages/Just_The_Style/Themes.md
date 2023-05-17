@@ -11,7 +11,7 @@
 <br>
 
 
-- <details><summary>Realism/Abstraction</summary><p><div align="center">
+- <details><summary>现实主义/抽象主义</summary><p><div align="center">
 
 	| Realistic | Hyperrealistic | Hyper Real |
 	| :-: | :-: | :-: |
@@ -68,7 +68,7 @@
 	<br>
 
 
-- <details><summary>Retro/Modern</summary><p><div align="center">
+- <details><summary>复古/现代</summary><p><div align="center">
 
 	| Retro | Retrowave |
 	| :-: | :-: |
@@ -121,7 +121,7 @@
   </div></p></details>
 
 
-- <details><summary>Sci-fi</summary><p><div align="center">
+- <details><summary>科幻</summary><p><div align="center">
 
 	| Sci-fi | Alchemy |
 	| :-: | :-: |
@@ -139,7 +139,7 @@
   </div></p></details>
 
 
-- <details><summary>Atmosphere</summary><p><div align="center">
+- <details><summary>氛围</summary><p><div align="center">
 
 	| Dark Atmosphere | Light Atmosphere | Reflective Atmosphere |
 	| :-: | :-: | :-: |
@@ -199,7 +199,7 @@
 
 
 
-- <details><summary>Architecture and Manufactured</summary><p><div align="center">
+- <details><summary>建筑与制造</summary><p><div align="center">
 
     | Cityscape | Architecture | Balinese Architecture |
 	| :-: | :-: | :-: |
@@ -282,7 +282,7 @@
 
 
 
-- <details><summary>Music Styles</summary><p><div align="center">
+- <details><summary>音乐风格</summary><p><div align="center">
 
 	| Music | Musical | Musical Notation |
 	| :-: | :-: | :-: |
@@ -346,7 +346,7 @@
   </div></p></details>
 
 
-- <details><summary>Cartoons, Anime, and Comics</summary><p><div align="center">
+- <details><summary>卡通/动漫</summary><p><div align="center">
 
 	| Cartoon | Marvel Comics |
 	| :-: | :-: |
@@ -369,7 +369,7 @@
   </div></p></details>
 
 
-- <details><summary>Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
+- <details><summary>色彩风格</summary><p><div align="center">
 
 	| Crystalcore | Sparklecore |
 	| :-: | :-: |
@@ -408,7 +408,7 @@
   </div></p></details>
 
 
-- <details><summary>Mood Based Themes</summary><p><div align="center">
+- <details><summary>情绪</summary><p><div align="center">
 
 	| Warmcore | Lovecore |
 	| :-: | :-: |
@@ -449,7 +449,7 @@
   </div></p></details>
 
 
-- <details><summary>Other Themes</summary><p><div align="center">
+- <details><summary>其他</summary><p><div align="center">
 
 	| Dark Aesthetic |
 	| :-: |
