@@ -1,4 +1,4 @@
-<h2>Themes</h2>
+<h2>主题</h2>
 
 <div align="center">
 
