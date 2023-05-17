@@ -1,10 +1,6 @@
 <h2>Artists</h2>
 
-<div align="center">
-<br>
-</div>
 
-<hr>
 <br>
 
 - <details><summary>现实主义</summary><p><div align="center">
@@ -64,7 +60,7 @@
   </div></p></details>
 
 
-- <details><summary>Abstract</summary><p><div align="center">
+- <details><summary>抽象派</summary><p><div align="center">
 
 	| Painting By Wassily Kandinsky | Painting By Marcia Santore |
 	| :-: | :-: |
@@ -73,7 +69,7 @@
   </div></p></details>
 
 
-- <details><summary>Modernism</summary><p><div align="center">
+- <details><summary>现代主义</summary><p><div align="center">
 
 	| Painting By Kandinksey | Painting by Paul Cezane |
 	| :-: | :-: |
@@ -94,25 +90,7 @@
   </div></p></details>
 
 
-- <details><summary>Post-Impressionism</summary><p><div align="center">
-
-	| Painting By Van Gogh |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Art Nouveau</summary><p><div align="center">
-
-	| Painting By Wes Anderson | Painted By Alphonso Mucha | Art By Gustav Klimt |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Wes_Anderson.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Alphonso_Mucha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Gustav_Klimt.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Luminism</summary><p><div align="center">
+- <details><summary>光影</summary><p><div align="center">
 
 	| Painting By Albert Bierstadt | Painting By Thomas Kinkade |
 	| :-: | :-: |
@@ -121,7 +99,7 @@
   </div></p></details>
 
 
-- <details><summary>Expressionism</summary><p><div align="center">
+- <details><summary>表现主义</summary><p><div align="center">
 
     | Painted By Affadi | Painted By Alexej Von Jawlensky | Painted By Alice Neel |
     | :-: | :-: | :-: |
@@ -136,16 +114,8 @@
   </div></p></details>
 
 
-- <details><summary>Futurism</summary><p><div align="center">
 
-	| Painting By David Alabo |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_David_Alabo.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Gothic</summary><p><div align="center">
+- <details><summary>哥特</summary><p><div align="center">
 
 	| Painted By Anne Stokes | Painting By Gerald Brom |
 	| :-: | :-: |
@@ -160,7 +130,7 @@
   </div></p></details>
 
 
-- <details><summary>Psychedelic</summary><p><div align="center">
+- <details><summary>迷幻</summary><p><div align="center">
 
 	| Painting By Alex Grey | Painting By Dan Mumford |
 	| :-: | :-: |
@@ -169,7 +139,7 @@
   </div></p></details>
 
 
-- <details><summary>Pop Art</summary><p><div align="center">
+- <details><summary>波普艺术</summary><p><div align="center">
 
 	| Painted By Andy Warhol | Painting By David Hockney |
 	| :-: | :-: |
@@ -184,7 +154,7 @@
   </div></p></details>
 
 
-- <details><summary>Concept Art</summary><p><div align="center">
+- <details><summary>概念艺术</summary><p><div align="center">
 
 	| Painting By Marc Simonetti | Painted By Alan Lee |
 	| :-: | :-: |
@@ -193,16 +163,7 @@
   </div></p></details>
 
 
-- <details><summary>Romanticism</summary><p><div align="center">
-
-	| Painting By John Constable |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_John_Constable.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Renaissance</summary><p><div align="center">
+- <details><summary>文艺复兴</summary><p><div align="center">
 
 	| Painted By Leonardo Da Vinci | Painted By Da Vinci |
 	| :-: | :-: |
@@ -217,25 +178,7 @@
   </div></p></details>
 
 
-- <details><summary>Vedute Painting Style</summary><p><div align="center">
-
-	| Painting By Canaletto |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Canaletto.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Baroque</summary><p><div align="center">
-
-	| Painted By Annibale Carracci | Painted By Anthony Van Dyck |
-    | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Annibale_Carracci.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Anthony_Van_Dyck.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Dadaism</summary><p><div align="center">
+- <details><summary>达达主义</summary><p><div align="center">
 
 	| Painting By Robert Rauschenberg | Art By Man Ray |
 	| :-: | :-: |
@@ -292,40 +235,7 @@
   </div></p></details>
 
 
-- <details><summary>Neo-Dadaism</summary><p><div align="center">
-	
-	| Art By Genpei Akasegawa | Painting By Josip Demirovic Devj |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Genpei_Akasegawa.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Josip_Demirovic_Devj.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Painting By Jim Dine | Art By Arthur Kopcke |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Jim_Dine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Arthur_Kopcke.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Art By George Maciunas | Art By Valery Oisteanu |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_George_Maciunas.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Valery_Oisteanu.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Painting By Ushio Shinohara | Art By Jean Tinguely |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Ushio_Shinohara.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Jean_Tinguely.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Art By Masunobu Yoshimura |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Masunobu_Yoshimura.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Graffiti Artists</summary><p><div align="center">
+- <details><summary>涂鸦艺术</summary><p><div align="center">
 
 	| Graffiti By Mr. Brainwash | Graffiti By Thierry Guetta |
 	| :-: | :-: |
@@ -394,7 +304,7 @@
   </div></p></details>
 
 
-- <details><summary>Instagram Artist</summary><p><div align="center">
+- <details><summary>Instagram</summary><p><div align="center">
 	
 	| Uon.visuals | Art By Uon.visuals |
 	| :-: | :-: |
@@ -426,85 +336,7 @@
 
   </div></p></details>
 
-
-- <details><summary>Artstation Artist</summary><p><div align="center">
-
-    | Painted By Annton Fadeev | Painted By Alena Aenami |
-    | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Annton_Fadeev.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Alena_Aenami.webp?raw=true" width="256" /> |
-
-	<br>
-
-    | Painted By Andreas Rocha | Painted By Aleksi Briclot |
-    | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Andreas_Rocha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Aleksi_Briclot.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Painting By Ivan Stan |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Ivan_Stan.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Manga</summary><p><div align="center">
-
-	| Painting By Junji Ito |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Junji_Ito.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Painted By Akihiko Yoshida | Painted By Anton Pieck |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Akihiko_Yoshida.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Anton_Pieck.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Art by Ilya Kuvshinov |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_by_Ilya_Kuvshinov.webp?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>Non-Painters</summary><p>
-
-    - <details><summary>Sculptors</summary><p><div align="center">
-
-        | Art By Alberto Giacometti | Art By Alexander Milne Calder |
-        | :-: | :-: |
-        | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Alberto_Giacometti.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Alexander_Milne_Calder.webp?raw=true" width="256" /> |
-
-      </div></p></details>
-
-    - <details><summary>Photographers</summary><p><div align="center">
-
-        | Art By Anne Geddes | Art By Joel-Peter Witkin |
-        | :-: | :-: |
-        | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Anne_Geddes.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Joel-Peter_Witkin.webp?raw=true" width="256" /> |
-
-      </div></p></details>
-
-    - <details><summary>Writers</summary><p><div align="center">
-
-        | Art By Anne McCaffrey |
-        | :-: |
-        | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_By_Anne_McCaffrey.webp?raw=true" width="256" /> |
-
-      </div></p></details>
-
-  </p></details>
-
-
-- <details><summary>Other Artists</summary><p><div align="center">
+- <details><summary>其他</summary><p><div align="center">
 
 	| Painting By Bob Ross | Art By M.C. Escher |
 	| :-: | :-: |
@@ -550,5 +382,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">Go Back To Home Page</a></h6>
 </div>
