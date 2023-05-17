@@ -3,9 +3,9 @@
 <hr><!--------------->
 <div align="center">
 
-[MidJourney V1](/Pages/MJ_V1/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
+[<font size="15">**MidJourney V1**](/Pages/MJ_V1/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MidJourney V4
+<font size="15">**MidJourney V4**
 
 
 <br>
