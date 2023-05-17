@@ -1,4 +1,4 @@
-<h2>Rainbow of Midjourney Colors</h2>
+<h2>色谱</h2>
 
 <div align="center">
 MidJourney V4
