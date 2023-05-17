@@ -3,9 +3,9 @@
 <hr><!--------------->
 <div align="center">
 
-MidJourney V1
+<font size="15">**MidJourney V1**
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[MidJourney V4](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
+[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 <br>
 </div>
 
