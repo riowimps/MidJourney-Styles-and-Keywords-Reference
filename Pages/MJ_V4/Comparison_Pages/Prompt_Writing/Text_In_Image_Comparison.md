@@ -4,7 +4,7 @@
 <div align="center">
 
 
-[<font size="15">**MidJourney V4**](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
+<font size="15">**MidJourney V4**
 </div>
 
 <hr>
