@@ -8,7 +8,7 @@
 
 <font size="15">**MidJourney V1**
     &nbsp;&nbsp;&nbsp;
-[<font size="15">**MidJourney V4**](Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md)
+[<font size="15">**MidJourney V4**]()
 <br>
 
 [<font size="15">**V4 All**](/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison_V4_All.md)&nbsp;&nbsp;&nbsp;
@@ -71,5 +71,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>
